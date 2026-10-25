@@ -1,0 +1,42 @@
+# MetaTrader 5 Compiled Binaries (Build from source with MetaEditor)
+*.ex5
+*.ex4
+
+# Internal dev archives & experimental research clones
+LAYLA/
+Archive/
+_archive_internal/
+Backtests/
+Runs/
+
+# Strategy Tester artifacts & logs
+*.log
+*.htm
+*.html
+*.ini
+*.tst
+*.opt
+
+# Python cache & virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+
+# Secrets & Environment variables
+.env
+.env.*
+!.env.example
+secrets/
+*.key
+
+# Editor & OS files
+.vscode/
+.idea/
+*.swp
+*~
+Thumbs.db
+[Dd]esktop.ini
+.DS_Store
