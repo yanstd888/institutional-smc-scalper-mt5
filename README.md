@@ -7,6 +7,10 @@
 [![Trading Strategy](https://img.shields.io/badge/Strategy-Smart%20Money%20Concepts%20(ICT)%20%2B%20MSNR-blueviolet)](docs/ARCHITECTURE.md)
 [![Backtest Verified](https://img.shields.io/badge/Verified%20Backtest-100%25%20Real%20Ticks%20(PF%201.42)-success)](#-verified-backtest-performance--strategy-tester-results)
 
+<div align="center">
+  <img src="images/social-preview.png" alt="YANSTD Institutional SMC Scalper MetaTrader 5 Expert Advisor" width="100%"/>
+</div>
+
 **YANSTD** is an open-source, institutional-grade **Smart Money Concepts (SMC)** and **Inner Circle Trader (ICT)** automated trading Expert Advisor (EA) built for **MetaTrader 5 (MT5)**. Engineered specifically for **Gold (XAUUSD)** intraday scalping, it combines algorithmic **Liquidity Sweeps**, **Order Blocks (OB)**, **Fair Value Gaps (FVG)**, and **Market Structure Support & Resistance (MSNR)** with zero martingale and strict mathematical risk management.
 
 ---
